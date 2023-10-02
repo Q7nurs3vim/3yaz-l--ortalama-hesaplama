@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\bin\Debug\yazılıortalamahesaplama.exe.config
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\bin\Debug\yazılıortalamahesaplama.exe
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\bin\Debug\yazılıortalamahesaplama.pdb
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.Form1.resources
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.exe
+C:\Users\User\source\repos\yazılıortalamahesaplama\yazılıortalamahesaplama\obj\Debug\yazılıortalamahesaplama.pdb
